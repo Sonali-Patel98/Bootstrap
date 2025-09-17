@@ -1,0 +1,8 @@
+.bg-body-tertiary .navbar-brand{
+    color: blue;
+    position: relative;
+    left: 50px;
+}
+.container{
+    background-color: greenyellow;
+}
